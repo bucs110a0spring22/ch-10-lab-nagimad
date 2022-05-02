@@ -8,7 +8,7 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-the enemies move around and the hero fight them
+the enemies move around and the hero fights them
 #### Unique Feature
 background music in srs/song.py. I added an ogg music file in the assets, which plays in bacground of the game window
 
