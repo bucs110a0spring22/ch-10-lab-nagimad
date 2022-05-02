@@ -4,7 +4,7 @@ from pygame import mixer
 
  
 mixer.init()
-mixer.music.load('assets/bensound-summer_wav_music.wav')
+mixer.music.load('assets/01 Title.mp3')
 mixer.music.play()
  
 runing = True
