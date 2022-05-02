@@ -1,4 +1,7 @@
 import pygame
+
+'''add the music file from the assets arg:mixer'''
+
 pygame.init()
 pygame.mixer.init()
 sound = pygame.mixer.Sound("assets/music.ogg")
