@@ -8,9 +8,9 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-the enemies move around randomly while the hero fights them
+the enemies move around randomly, and the hero fights them.
 #### Unique Feature
-background music in srs/song.py. I added an ogg music file in the assets, which plays in background of the game window
+Included a background music for the game in srs/song.py. I added an ogg music file in the assets, which plays in background of the game window
 
 ## GRACE DAYS
 Grace days used for this assignment:0
