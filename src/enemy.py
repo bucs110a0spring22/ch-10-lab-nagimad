@@ -20,11 +20,11 @@ class Enemy(pygame.sprite.Sprite):
         self.rect.y = y
         #set other attributes
         self.name = name + str(id(self))
-        self.speed = 2
+        self.speed = 4
 
     def update(self):
         '''updates the Enemy object
-      args: self'''
+      args: self return: enemy move randomly'''
         self.rect.x = self.rect.x + random.choice((-1,0,1))
         self.rect.y = self.rect.y + random.choice((-1,0,1))
       
